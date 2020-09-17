@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(130, 196, 207); /* using html elements  */
+    margin: 20px;
+    
+}
+
+h2 {
+    text-align: center;
+    color:rgb(73, 21, 121);
+    font-family: 'Poppins', sans-serif; /* generic fonts if another one fails to load (degrade) */
+}
+h5 {
+    background-color: rgb(121, 118, 170);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16px;
+    border-radius: 10px;
+    padding: 10px;
+
+
+
+}
+
+.lists {
+    background-color: silver;                                             /* using classes  */
+    color: rgba(19, 27, 143, 0.993);
+    border-color: cyan;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 10px;
+    padding-left: 35px;
+    
+    
+}
+
+.scale-low {
+    width: 100px;
+}
+
+.red-solid-border {
+    border-color: red;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 50%;
+    /* border-radius: 10px; */
+    /* border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px; */
+  }
+
+
+/* all html elements are rectangle: properties to control the space around sorrounding 
+of th eelement we use : 
+padding
+margin and
+border */
+
+/* padding : space between content and the .red-solid-border */
+
+/* margin: space between an element's border and its sorrounding */

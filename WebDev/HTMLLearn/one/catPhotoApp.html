@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html>
+    <head>  <!-- metadata elements like Link, Meta, Title and Style usually inside head-->
+            <title>CatPhotoApp</title>
+            <link rel = "stylesheet" type = "text/css" href = "lecture1.css" />
+            <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <h2 >CatPhotoApp</h2>
+        <main>
+            <a href="#"><img class="scale-low red-solid-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+            <div id="silver-background">
+                <h5>Unordered List</h5>
+                <ul class="lists ">
+                    <li>cat nip</li>
+                    <li>laser pointers</li>
+                    <li>lasagna</li>
+                </ul>
+                <h5>Ordered List</h5>
+                <ol class="lists ">
+                    <li>flea treatment</li>
+                    <li>thunder</li>
+                    <li>other cats</li>
+                </ol>
+            </div>
+            <form action="/submit-cat-photo">
+                <h5>Radio</h5>
+                <label for="indoor">
+                    <input type="radio" id="indoor" name="indoor-outdoor" value="indoor" checked> Indoor
+                </label>
+                <label for="outdoor">
+                    <input type="radio" id="outdoor" name="indoor-outdoor" value="outdoor"> Outdoor
+                </label>
+                <br>
+                <h5>Checkbox</h5>
+                <label for="indoor">
+                    <input type="checkbox" id="loving" name="personality" checked> Loving
+                </label>
+                <label for="outdoor">
+                    <input type="checkbox" id="lazy" name="personality"> Lazy
+                </label>
+                <label for="outdoor">
+                    <input type="checkbox" id="energetic" name="personality"> Energetic
+                </label>
+                <h5>User Input</h5>
+                <input type="text" placeholder="cat photo URL" required>
+                <button type="submit">Submit</button>
+            </form>
+            <p>Click here to view more <a href="#">cat photos</a>.</p>
+        </main>  
+    </body>  
+</html>

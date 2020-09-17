@@ -1,0 +1,1 @@
+var freunds = neu array();

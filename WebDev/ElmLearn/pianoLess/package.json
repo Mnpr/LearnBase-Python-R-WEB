@@ -1,0 +1,15 @@
+{
+  "name": "pianoless",
+  "version": "1.0.0",
+  "description": "Simple app to learn piano",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "elm make src/Main.elm --output --optimize elm.js"
+  },
+  "author": "Sudesh Acharya",
+  "license": "MIT"
+}

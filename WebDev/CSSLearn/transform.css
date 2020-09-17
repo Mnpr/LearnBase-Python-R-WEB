@@ -1,0 +1,63 @@
+/* Basic transformations
+Translate
+Rotate
+and Scale  */
+ body {
+    background-color: thistle;
+}
+
+.heading{
+    background-color: teal;
+    border-radius: 25px;
+    padding: 20px;
+}
+
+p {
+    width: 100px;
+    height: 100px;
+    background-color: teal;
+    border-radius: 20px;
+}
+.move-right{
+    background-color: tomato;
+    transform: translateX(100px);
+}
+.move-up{
+    background-color: rgb(127, 172, 4);
+    transform: translate(0, -35px);
+}
+.move-3d {
+    background-color: rgb(16, 97, 163);
+    transform: translate3d(20px,-100px, 0);
+}
+/* 
+p:hover {
+    transform: translate(20px,20px);
+} */
+
+.scale {
+    border: 5px solid sienna;
+    background-color: violet;
+}
+.double {
+    transform: scale(2);
+
+    /* transform: scale(2,3); */
+    
+    /* transform-origin: 0 0; */
+    /* transform-origin: left;*/
+    
+    transform-origin: left top; 
+    /* Origin reference */
+
+    /* scaleX, scaleY scale(2,5) */
+}
+.rotated {
+    background-color: springgreen;
+    transform: rotate(-80deg) translateX(200px);
+    transform-origin: top right; 
+    /* more than 360 possible
+    transform origin 
+    decimal values also accepted */
+    /* negate : anticlockwise */
+}
