@@ -5,8 +5,8 @@ using namespace std;
 
 int main()
 {
-     int age = 17;
-     cout << "Better not drink at Age: " << age << endl;
+    cout <<  (int)3.14 << endl;
+    cout << (double)3 / 2 << endl;
 
 return 0;
 
