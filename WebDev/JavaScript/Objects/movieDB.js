@@ -14,7 +14,8 @@ var movieDB = [
 		rating:4,
 		watched : true
 		},
-              ];
+			  ];
+			  
 function movieDb(x)
 	{
 		for(i=0;i<x.length;i++)
