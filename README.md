@@ -8,19 +8,14 @@
 
 - Scripting | Scraping
 
-## R
-
-- Analytics | Time Series 
 
 ## WEB/ APP
 
-- HTML5, CSS3, EcmaScript (JS)
+- HTML5, CSS3, EcmaScript (JS) | TypeScript
 
 - Node | Express 
 
 - Angular | React | Vue 
-
-- Elm ( Alt. of JS ) --- Compiles -- to ===> JS
 
 
 ## Database
@@ -29,14 +24,13 @@
 
 - NO-SQL ( MongoDB )
 
-### Elm/ Haskell
+## Other Programming Lang.
 
-- Graphics
+- Elm ( Alt. of JS ) --- Compiles -- to ===> JS
 
-- Computation
+- Haskell
 
-### Libraries
+- C++
 
-- Brain.js
+- R => Analytics | Time Series
 
-- P5.js
