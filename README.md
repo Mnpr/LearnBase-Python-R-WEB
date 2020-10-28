@@ -1,44 +1,39 @@
 # Implementation/ Reference/ Practice
 
-
-
 ## Python
 
-- Flask
+- Fundamentals
 
-- Django
+- Flask | Django
 
-- Scripting
-
-- Scraping
+- Scripting | Scraping
 
 ## R
 
-- Analytics
+- Analytics | Time Series 
 
 ## WEB/ APP
 
-- HTML5
+- HTML5, CSS3, EcmaScript (JS)
 
-- CSS3
+- Node | Express 
 
-- JS
+- Angular | React | Vue 
 
-- Node
+- Elm ( Alt. of JS ) --- Compiles -- to ===> JS
 
-- MongoDB
+
+## Database
+
+- SQL ( Postgres )
+
+- NO-SQL ( MongoDB )
 
 ### Elm/ Haskell
 
 - Graphics
 
 - Computation
-
-### Frameworks
-
-- Vue
-
-- React
 
 ### Libraries
 
