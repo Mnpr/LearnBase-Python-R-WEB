@@ -13,7 +13,7 @@ class Student:
         if marks == 0:
             return 0
         
-        average = sum(student.scores)/marks
+        average = sum(self.scores)/marks
         return average
 
 def create_student():
@@ -28,7 +28,7 @@ def add_scores(student, score):
 
 
 def student_details(student):
-    print('\nStudent Name : {},\nAverage Score : {} '.format(student.name, average_score(student)))
+    print('\nStudent Name : {},\nAverage Score : {} '.format(student.name, student.average_score(student)))
 
 def list_students(s_list):
     for i, student in enumerate(s_list):

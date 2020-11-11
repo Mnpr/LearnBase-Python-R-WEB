@@ -34,7 +34,7 @@ class Clock(Scene):
         self.face.add_child(ShapeNode(ui.Path.oval(0,0,15,15), 'black')
         self.did_change_size()
 
-    def did_change_size(self):
+    def did_change_size():
         self.face.position = self.size/2
 
     def update(self):
