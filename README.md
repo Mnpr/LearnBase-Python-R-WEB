@@ -1,36 +1,42 @@
 # Implementation/ Reference/ Practice
 
-## Python
+### Python
 
 - Fundamentals
 
 - Flask | Django
 
-- Scripting | Scraping
+- Streamlit( Model server with Flask )
+
+- Object Oriented Programming
+
+- Best Practices
+
+- Scripts
+
+- Scraping
 
 
-## WEB/ APP
+### WEB/ APP
 
 - HTML5, CSS3, EcmaScript (JS) | TypeScript
 
-- Node | Express 
+- Node + Express 
 
-- Angular | React | Vue 
+- Angular | React
 
 
-## Database
+## Databases
 
 - SQL ( Postgres )
 
 - NO-SQL ( MongoDB )
 
-## Other Programming Lang.
-
-- Elm ( Alt. of JS ) --- Compiles -- to ===> JS
-
-- Haskell
+### Other Programming Lang.
 
 - C++
 
-- R => Analytics | Time Series
+- Elm ( Alt. of JS ) --- Compiles -- to ===> JS
+
+- R => Analytics | Time Series | Auto-regression
 
