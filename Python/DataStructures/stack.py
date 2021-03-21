@@ -12,11 +12,6 @@ class Stack:
     def pop(self):
         return self.items.pop()
 
-    def items_top_bottom(self):
-        top = self.items[-1]
-        bottom = self.items[0]
-        return top, bottom
-
     def size(self):
         return len(self.items)
 
