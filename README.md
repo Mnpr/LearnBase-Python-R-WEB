@@ -1,33 +1,38 @@
 # Implementation/ Reference/ Practice
 
-### C++
-- Fundamentals
+## **Computer Science**
 
-### Python
+### 1. [Artificial Intelligence](https://github.com/Mnpr/LearnBase/tree/master/ArtificialIntelligence/)
 
-- Fundamentals
-- Object Oriented Programming
-- Data Structures | Algorithms 
-- Flask | Django
-- Streamlit | Selenium
-- Design Patterns
-- Scripts | Scraping
+- Classical Machine Learning
+- Deep Learning
+  - Computer Vision
+  - NLP / NLU
+- Data Science and Analytics
 
+### 2. [Programming](https://github.com/Mnpr/LearnBase/tree/master/Programming/)
+- C++
+  - Fundamentals
+- Python
+  - Fundamentals
+  - Object Oriented Programming
+  - Data Structures | Algorithms 
+  - Flask | Django
+  - Streamlit | Selenium
+  - Design Patterns
+  - Scripts | Scraping
+-  WEB/ APP
+   - HTML5, CSS3, EcmaScript (JS) | TypeScript
+   - Node + Express | Django, Flask 
+   - Angular | React
+- Elm ( Alt. of JS ) --- Compiles -- to ===> JS
+- R => Analytics | Time Series | Auto-regression
 
-### WEB/ APP
+### 3. [CS Fundamentals](https://github.com/Mnpr/LearnBase/tree/master/ClassicML/)
 
-- HTML5, CSS3, EcmaScript (JS) | TypeScript
-- Node + Express | Django, Flask | ASP.NET( C# )
-- Angular | React
-
-
-## Databases
+### 4. [Databases](https://github.com/Mnpr/LearnBase/tree/master/Database/)
 
 - SQL ( Postgres )
 - NO-SQL ( MongoDB )
 
-### Other Programming Lang.
-
-- Elm ( Alt. of JS ) --- Compiles -- to ===> JS
-- R => Analytics | Time Series | Auto-regression
-
+### 5. [DevOps](https://github.com/Mnpr/LearnBase/tree/master/DevOps/)
